@@ -53,7 +53,7 @@ Software Developer
 > Debugged, Updated, and Redesigned Android Tablet Application with Java Android Development Tools, Eclipse IDE, XML, SQLite, SOAP that uses Web Services to send and obtain data.  Adjusted android program to adapt to changes with business rules.  Web services then connects with a Data Access Layer that then calls stored procedures on an SQL Server.  Created database application development in a wireless communication environment.  
 > Updated 300 pages of Crystal Reports version 8.5 and modified a few more to display more details  
 
-_Bank of America, Los Angeles, CA | 2007 - 2010_  
+_Bank of America, Los Angeles, CA | 2006 - 2010_  
 Senior Operations Representative
 
 > Internally processed transactions in one or more of the company's internal operations to support domestic and international consumer, commercial and whole sale bank business or service functions.  
@@ -63,7 +63,7 @@ Senior Operations Representative
 > Strong Organization skills that worked with team environment and ability to meet 12:15 AM deadline to process all checks and adjustments  
 > Effective oral, written, and interpersonal communication skills by using internal web application Performance Management to help manager critic my productivity, accomplishments, and performance.  
 
-_E7 Architecture Studio, Los Angeles, CA | 2009_  
+_E7 Architecture Studio, Los Angeles, CA | 2008 - 2009_  
 Software Developer
 
 > Restructured a database with Microsoft Transact-SQL Server program and used stored procedures in Microsoft SQL Management Studio to improve Aesthetic Guidelines Database by restructured tables to remove redundant data  
